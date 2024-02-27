@@ -1,1 +1,1 @@
-# GrowDev-Gerais
+Atividades desenvolvidas durante o curso de desenvolvedor web Full Stack da GROWDEV
