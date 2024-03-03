@@ -1,0 +1,108 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    top: 250px;
+    left: 500px;
+}
+
+.div1 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    top: 0;
+    left: 0;
+}
+.div2 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    top: 125px;
+    left: 0;
+}
+.div3 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    top: 250px;
+    left: 0;
+}
+.div4 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    top: 0;
+    left: 125px;
+}
+.div5 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    top: 0;
+    left: 250px;
+}
+.div6 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    top: 125px;
+    left: 125px;
+}
+.div7 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    bottom: 0;
+    right: 0;
+}
+.div8 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    bottom: 125px;
+    right: 0;
+}
+.div9 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    bottom: 250px;
+    right: 0;
+}
+.div10 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    bottom: 0;
+    right: 125px;
+}
+.div11 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    bottom: 0;
+    right: 250px;
+}
+.div12 {
+    background-color: black;
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    bottom: 125px;
+    right: 125px;
+}

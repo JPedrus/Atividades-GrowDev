@@ -1,0 +1,38 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    position: fixed;
+    text-align: right;
+    padding: 10px;
+    top: 150px;
+    left: 100px;
+    right: 100px;
+    width: 850px;
+    height: 100px;
+}
+
+.div2 {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-transform: lowercase;
+    position: fixed;
+    text-align: left;
+    padding: 10px;
+    top: 300px;
+    left: 100px;
+    right: 100px;
+    width: 850px;
+    height: 100px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
